@@ -97,20 +97,20 @@ public class problem1 {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
-        float numberOfQuestions = 0;
-        float correctAnswer;
-        float userAnswer;
+        int numberOfQuestions = 0;
+        double correctAnswer;
+        double userAnswer;
         int userChoice;
-        float correctCounter = 0;
-        float wrongCounter = 0;
-        float successRate = 0;
+        int correctCounter = 0;
+        int wrongCounter = 0;
+        double successRate;
         int userDifficulty;
         int userProblemType;
         boolean resetOption;
 
         do {
             System.out.print("Which difficulty level would you like?");
-            System.out.println(" 1 for 1 digit, 2 for 2 digits, 3 for 3 digits, and 4 for 4 digits>");
+            System.out.println(" 1 for 1 digit, 2 for 2 digits, 3 for 3 digits, and 4 for 4 digits:");
             userDifficulty = scnr.nextInt();
             System.out.println("What type of problem do you want? 1 = addition, 2 = multiplication, 3 = subtraction, 4 = division, 5 = mixture");
             userProblemType = scnr.nextInt();
@@ -129,7 +129,7 @@ public class problem1 {
                 }
                 numberOfQuestions++;
             }
-            successRate = correctCounter / 10;
+            successRate = correctCounter / 10.0;
             if (successRate >= .75) {
                 System.out.println("Congratulations, you are ready to go to the next level!");
             } else {

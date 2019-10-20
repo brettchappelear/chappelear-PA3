@@ -1,5 +1,5 @@
 public class savingsAccount {
-    private static double annualInterestRate = 0.0;
+    private static double annualInterestRate;
     private double savingsBalance;
 
     public void calculateMonthlyInterest() {
@@ -11,8 +11,8 @@ public class savingsAccount {
         annualInterestRate = percentage;
     }
 
-    public void printTheBalance() {
-        System.out.printf("$%.2f", savingsBalance);
+    public double printTheBalance() {
+        return this.savingsBalance;
     }
 
     public savingsAccount(double i) {

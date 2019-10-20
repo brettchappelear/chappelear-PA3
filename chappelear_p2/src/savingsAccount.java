@@ -12,7 +12,7 @@ public class savingsAccount {
     }
 
     public double printTheBalance() {
-        return this.savingsBalance;
+        return savingsBalance;
     }
 
     public savingsAccount(double i) {

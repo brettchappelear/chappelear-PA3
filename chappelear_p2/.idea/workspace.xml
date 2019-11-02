@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bfd169b-b510-4e1e-a8c3-f8d037609500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/savingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/savingsAccount.java" afterDir="false" />
+    <list default="true" id="0d39e67a-23c9-4ec7-a168-692893ebe5eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chappelear_p1/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chappelear_p1/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chappelear_p1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chappelear_p1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chappelear_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chappelear_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chappelear_p1/out/production/Chappelear_p1/META-INF/Chappelear_p1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chappelear_p1/out/production/Chappelear_p1/problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chappelear_p1/src/problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chappelear_p2/savingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chappelear_p2/savingsAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/savingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/savingsAccountTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +35,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SRFWCM3C7sjlmkXawfpaJfVDZj" />
+  <component name="ProjectId" id="1T1Wfb7nNKLk4dTMQ5hePJJ8gGk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chappelear_p1" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,8 +50,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="savingsAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="savingsAccountTest" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="chappelear_p2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.savingsAccountTest" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -56,11 +68,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0bfd169b-b510-4e1e-a8c3-f8d037609500" name="Default Changelist" comment="" />
-      <created>1571518530115</created>
+      <changelist id="0d39e67a-23c9-4ec7-a168-692893ebe5eb" name="Default Changelist" comment="" />
+      <created>1572628185897</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571518530115</updated>
+      <updated>1572628185897</updated>
     </task>
     <servers />
   </component>
